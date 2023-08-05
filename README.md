@@ -6,7 +6,6 @@ SHT45-SXG模組篩選板
 * 人工篩選出 特性、靈敏度一致的模組
 
 ### 技術文件:  
-* [Source code](./Code)*使用Raspberry Pi Pico操作SHT45*
 * [SHT45 datasheet](https://sensirion.com/products/catalog/SHT45/)
 * [Block Diagram 1](./Document/SHT45_Module_Quality_Filter.png)
 * [product photos 1](./Document/成品圖1.png)
