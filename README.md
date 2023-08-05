@@ -7,7 +7,7 @@ SHT45-SXG模組篩選板
 ### 技術文件:  
 * [Source code](./Code)*使用Raspberry Pi Pico操作SHT45*
 * [SHT45 datasheet](https://sensirion.com/products/catalog/SHT45/)
-* [Block Diagram 1](./Document/SHT45 Module Quality Filter.png)
+* [Block Diagram 1](./Document/SHT45_Module_Quality_Filter.png)
 * [Schematic 2](./Circuit/RP2040-Plus_SHT45_schematic2.png)
 * [PCB Layotu](./Circuit/SHT45_Module_SXG_layotu.png)
 * [PCB 3D渲染](./Circuit/SHT45_Module_SXG_3D.png)
